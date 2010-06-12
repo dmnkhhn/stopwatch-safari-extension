@@ -1,0 +1,45 @@
+Stop Watch
+A simple Safari 5 extension to display a functional stop watch
+
+
+
+Enable Safari 5 Extensions
+--------------------------
+
+1. Go to Safari Preferences → Advanced → tick Show Develop menu in menu bar
+
+2. In the menu bar go to Develop → Enable Extensions
+
+
+How to Install
+--------------
+
+1. Download stopwatch.safariextz
+
+  http://github.com/downloads/dohahn/stopwatch-safari-extension/stopwatch.safariextz
+
+2. Double click the .safariextz file to install in Safari 5 and follow the prompts
+
+
+
+CREDITS
+-------
+
+The original stop watch was created by Brothercake - http://www.brothercake.com/
+
+Chris Morrell (http://cmorrell.com/) is responsible for the nice buttons
+
+The icon is from http://glyphish.com/ - a fantastic free set by Joseph Wain
+
+
+
+ISSUES / SUPPORT
+----------------
+
+Feel free to log any issues in http://github.com/dohahn/stopwatch-safari-extension/issues
+
+
+
+
+Have fun!
+-- Dominik H.
