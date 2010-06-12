@@ -47,6 +47,8 @@
 			<string>All</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://dohahn.github.com/stopwatch-safari-extension/update.plist</string>
 	<key>Website</key>
 	<string>http://dohahn.github.com/stopwatch-safari-extension/</string>
 </dict>
